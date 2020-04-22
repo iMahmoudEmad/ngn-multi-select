@@ -1,29 +1,29 @@
 {
-	"name": "ngn-multi-select",
-	"description": "Multi Select Component Without Any Dependencies",
-	"version": "1.0.1",
-	"private": true,
-	"keywords": [
-		"ngn-multi-select",
-		"ngx-multi-select",
-		"ng2-multi-select",
-		"ng multi select",
-		"multi select",
-		"multi select component",
-		"angular multi select",
-		"angular multi select component",
-		"native angular multi select component"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+ssh://git@github.com/iMahmoudEmad/ngn-multi-select.git"
-	},
-	"author": "Mahmoud Emad Eldin <mahmouddev23@gmail.com>",
-	"license": "MIT",
-	"homepage": "https://github.com/iMahmoudEmad/ngn-multi-select#readme",
-	"peerDependencies": {
-		"@angular/common": "^9.0.7",
-		"@angular/core": "^9.0.7",
-		"tslib": "^1.10.0"
-	}
+  "name": "ngn-multi-select",
+  "description": "Multi Select Component Without Any Dependencies",
+  "version": "1.0.2",
+  "private": true,
+  "keywords": [
+    "ngn-multi-select",
+    "ngx-multi-select",
+    "ng2-multi-select",
+    "ng multi select",
+    "multi select",
+    "multi select component",
+    "angular multi select",
+    "angular multi select component",
+    "native angular multi select component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iMahmoudEmad/ngn-multi-select.git"
+  },
+  "author": "Mahmoud Emad Eldin <mahmouddev23@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/iMahmoudEmad/ngn-multi-select#readme",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "tslib": "^1.10.0"
+  }
 }
