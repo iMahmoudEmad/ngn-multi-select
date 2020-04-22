@@ -4,9 +4,9 @@
 
 Multi select component without any dependencies or third party libraries
 
-<img src="./../../src/assets/1.png" alt="NgnMultiSelect Picture" width="500"/>
-<img src="./../../src/assets/2.png" alt="NgnMultiSelect Picture" width="500"/>
-<img src="./../../src/assets/3.png" alt="NgnMultiSelect Picture" width="500"/>
+<img src="./assets/1.png" alt="NgnMultiSelect Picture" width="500"/>
+<img src="./assets/2.png" alt="NgnMultiSelect Picture" width="500"/>
+<img src="./assets/3.png" alt="NgnMultiSelect Picture" width="500"/>
 
 ## Installation
 
@@ -27,7 +27,7 @@ import { NgnMultiSelectModule } from 'ngn-multi-select'
   ...
   imports: [NgnMultiSelectModule]
   ...
-});
+})
 ```
 
 Add component to your page:
